@@ -22,3 +22,7 @@ Implement Social Media authentication.
 Add User Management features
 
 ![image](https://github.com/kevine250/assignment_3/assets/110406857/fc3076cf-8b49-49be-9d6d-08a7e96f802b)
+![sig](https://github.com/kevine250/assignment_3/assets/110406857/dc8b181b-0133-472a-b816-c8182f5838ce)
+![signup](https://github.com/kevine250/assignment_3/assets/110406857/78425e51-99ea-4f60-98c6-f50854aeccd6)
+
+
